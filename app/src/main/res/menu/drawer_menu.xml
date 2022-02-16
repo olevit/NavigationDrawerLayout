@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/primary">
+        <item
+            android:id="@+id/firstFragment"
+            android:icon="@drawable/ic_launcher_foreground"
+            android:title="First fragment" />
+        <item
+            android:id="@+id/secondFragment"
+            android:icon="@drawable/ic_launcher_foreground"
+            android:title="Second Fragment" />
+    </group>
+</menu>
